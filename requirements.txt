@@ -3,3 +3,4 @@ gunicorn==25.0.3
 django-cors-headers==4.9.0
 djangorestframework==3.16.1
 djangorestframework-simplejwt==5.5.1
+joblib==1.5.3
