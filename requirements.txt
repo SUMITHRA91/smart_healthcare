@@ -6,3 +6,4 @@ djangorestframework-simplejwt==5.5.1
 joblib==1.5.3
 opencv-python-headless==4.8.1.78
 numpy==1.26.4
+reportlab==4.4.7
